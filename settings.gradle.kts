@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "orientacionTorresCallejasMichael"
+rootProject.name = "orientacionTorresCallejas-emiliano"
 include(":app")

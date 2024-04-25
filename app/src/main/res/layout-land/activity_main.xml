@@ -25,7 +25,7 @@
             android:id="@+id/fragmento1"
             android:layout_width="120dp"
             android:layout_height="match_parent"
-            android:name="com.example.orientaciontorrescallejasmichael.Fragmento1"
+            android:name="com.example.orientaciontorrescallejasEmiliano.Fragmento1"
             android:layout_weight="1"
             />
 
@@ -46,7 +46,7 @@
              android:layout_width="match_parent"
              android:layout_height="match_parent"
              android:layout_weight="1"
-             android:name="com.example.orientaciontorrescallejasmichael.Fragmento2"
+             android:name="com.example.orientaciontorrescallejasEmiliano.Fragmento2"
              />
 
          <fragment
@@ -54,7 +54,7 @@
              android:layout_width="match_parent"
              android:layout_height="match_parent"
              android:layout_weight="1"
-             android:name="com.example.orientaciontorrescallejasmichael.Fragmento3"
+             android:name="com.example.orientaciontorrescallejasEmiliano.Fragmento3"
              />
 
         </LinearLayout>
